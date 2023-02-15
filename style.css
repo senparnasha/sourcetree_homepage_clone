@@ -1,0 +1,188 @@
+.my-navbar{
+    height:60px;
+    width: 100%;
+    background-color:rgb(255, 255, 255) ;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 25%);
+}
+
+.source-tree-blue-icon-style{
+    height: 35px;
+    margin-left: 7%;
+    margin-top: 16px;
+    padding-bottom: 5px;
+}
+
+.downlod-btn{
+    height: 30px;
+    width: 137px;
+    border:1px solid #0047B3;
+    background-color: #0047B3;
+    float: right;
+    margin-right: 8%;
+    margin-top: 16px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 3px;
+}
+.big-white-box{
+    height: 90vh;
+    background-color: #e4e6eb;
+}
+.container-fluid{
+    margin-top:10px;
+   
+}
+.text-box{
+    padding-left: 80px;
+    /* padding-top:20px; */
+}
+.first-col{
+    font-size: 35px;
+    
+    color: rgb(54, 52, 52);
+    
+    font-family: arial;
+    
+   
+    
+}
+.heading{
+    font-weight: 600;
+}
+.btn-1{
+    height: 37px;
+    width: 220px;
+    border:1px solid #0047B3;
+    background-color: #0047B3;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 3px;
+    color: white;
+    text-align: center;
+    margin-top: 18px;
+    padding-top: 5px;
+}
+.small-text-1{
+    font-size: 15px;
+    margin-top: 18px;
+}  
+.pic-style{
+    width: 100%;
+    padding-top: 123px;
+    padding-right: 40px;
+    padding-bottom: none;
+}
+.text-box{
+    margin-top: -30px;
+}
+
+.free-gift-heading{
+    font-size: 35px;
+    font-family: arial;
+    font-weight: 600;
+    color: #253858;
+    
+}
+.line-1{
+    width: 11%;
+    height: 3px;
+background-color: #e68910;
+    margin-top: 38px;
+}
+.heading-1{
+    font-size: 25px;
+    font-family: arial;
+    font-weight: 600;
+    padding-top: 20px;
+    color: #253858;
+}
+.small-text-style{
+    color: #4b4e52;
+    font-size: 18px;
+}
+.pic-2-style{
+    margin-left: -15px;
+}
+.small-text-2{
+    color: #3d3f41;
+}
+
+
+
+.third-big-blue-box{
+    /* height: 130vh; */
+    background-color:#0052CC;
+}
+.commit-with-confidence-heading{
+    font-size: 35px;
+    font-family: arial;
+    font-weight: 600;
+    color: #f0f2f5;
+}
+.third-box-small-text-style{
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 500;
+    color: #f0f2f5;
+}
+.commit-with-confidence-pic{
+    width: 60%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 52px;
+   object-fit: cover;
+}
+.img-5{
+    width:100%;
+}
+.fully-featured-client-heading{
+    font-size: 35px;
+    font-family: arial;
+    font-weight: 600;
+    color:#253858;
+}
+.software-check-pic-style{
+    width: 110px;
+}
+.software-all-35-pic-style{
+    width: 110px;
+}
+.software-all-06-pic-style{
+    width: 110px;
+}
+.software-all-41-pic-style{
+    width: 110px;
+}
+.software-heading{
+    font-size: 20px;
+    color:#253858;
+    font-weight: 600;
+    padding-top: 10px;
+
+}
+.software-small-text{
+    font-size: 15px;
+    color:#253858;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+.row-container{
+    margin-left:6%;
+    margin-right:6%;
+    margin-top: 25px;
+}
+.Git-at-your-fingertips-heading{
+    font-size: 35px;
+    font-family: arial;
+    font-weight: 600;
+    color:#253858;
+}
+.Git-at-your-fingertips-small-text{
+    font-size: 17px;
+    font-family: arial;
+    font-weight: 500;
+    color:#46484b;
+}
