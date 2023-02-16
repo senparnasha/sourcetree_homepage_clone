@@ -186,3 +186,324 @@ background-color: #e68910;
     font-weight: 500;
     color:#46484b;
 }
+.fifth-box-pic-style{
+    width: 5%;
+
+}
+.fifth-box-icons-heading{
+    font-size: 18px;
+    font-family: arial;
+    font-weight: 600;
+    color:#253858;
+}
+.fifth-box-small-text{
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 500;
+    color:#253858;
+    padding-top: 18px;
+    padding-left: 25px;
+}
+.fingertips-row-container{
+    margin-left:6%;
+    margin-right:6%;
+    margin-top: 25px;
+}
+.sixth-box-pic-style{
+    width: 15%;
+    padding-top: 39px;
+}
+.sixth-box-icons-heading{
+    font-size: 24px;
+    font-family: arial;
+    font-weight: 600;
+    color:#253858;
+    
+}
+.sixth-box-small-text{
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 500;
+    color:#253858;
+    /* padding-top: 5px; */
+    padding-left: 110px;
+    margin-top: -35px;
+}
+.sixth-box-btn-1{
+    height: 26px;
+    width: 100px;
+    border:1px solid #0047B3;
+    background-color: #f3f4f7;
+    color: #3b6eb9;
+    margin-left: 112px;
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 600;
+    padding-top: 2px;
+    margin-top: 23px;
+    border-radius: 3px;
+}
+.sixth-box-btn-2{
+    height: 26px;
+    width: 110px;
+    border:1px solid #0047B3;
+    background-color: #f3f4f7;
+    color: #3b6eb9;
+    margin-left: 112px;
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 600;
+    padding-top: 2px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+.sixth-row-container{
+    margin-left:6%;
+    margin-right:6%;
+    margin-top: 25px;
+   margin-bottom: 43px;
+}
+.sixth-big-box{
+background-color: #e6e9ec;
+padding-bottom:5%;
+}
+.seventh-big-blue-box{
+    /* height: 130vh; */
+    background-color:#403294;
+}
+.seventh-big-box-heading{
+    font-size: 35px;
+    font-family: arial;
+    font-weight: 600;
+    color: #f0f2f5;
+    padding-top: 43px;
+}
+.seventh-box-small-text-style{
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 500;
+    color: #f0f2f5;
+    padding-top: 25px;
+}
+.seventh-big-box-pic{
+    width: 60%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 52px;
+   object-fit: cover;
+}
+.seventh-big-box-pic-style{
+    width:100%;
+}
+.learn-box{
+    color:#f0f2f5;
+}
+.eight-big-box-cover-pic{
+    background-image: url("./assets/background_images/WhatsApp\ Image\ 2023-02-16\ at\ 14.43.42.jpeg");
+    background-size: cover;
+    height: 70vh;
+   
+}
+.eight-big-box-cover-pic-heading{
+    font-size: 19px;
+    font-family: arial;
+    font-weight: 600;
+    color:#fcfafa;
+    padding-top: 11%;
+    padding-left: 6%;
+}
+.eight-big-box-cover-pic-small-text{
+    font-size: 13px;
+    font-family: arial;
+    font-weight: 600;
+    color:#fbfcfc;
+    padding-top: 3%;
+    padding-left: 6%;
+}
+.eight-big-box-logo{
+    width: 19%;
+    /* padding-left: 6%; */
+}
+.eight-big-box-logo{
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+.eight-box-pic-style{
+    width: 18%;
+    padding-top: 39px;
+}
+.eight-box-icons-heading{
+    font-size: 22px;
+    font-family: arial;
+    font-weight: 600;
+    color:#253858;
+    
+}
+.eight-box-small-text{
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 500;
+    color:#253858;
+    /* padding-top: 5px; */
+    padding-left: 110px;
+    margin-top: -35px;
+}
+.eight-row-container{
+    margin-left:6%;
+    margin-right:6%;
+    margin-top: -1%;
+   margin-bottom: 4%;
+}
+.eight-big-box{
+background-color: white;
+}
+.nineth-big-box-heading{
+    font-size: 35px;
+    font-family: arial;
+    font-weight: 600;
+    color: #253858;
+    padding-top: 2%;
+    
+}
+.nineth-box-btn{
+    height: 37px;
+    width: 220px;
+    border:1px solid #0047B3;
+    background-color: #0047B3;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 3px;
+    color: white;
+    text-align: center;
+    margin-top: 18px;
+    padding-top: 5px;
+}
+.nineth-box-small-text{
+
+font-size: 14px;
+margin-top: 20px;
+
+}
+.nineth-box-col-head{
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 600;
+    color:#253858;
+}
+.nineth-box-col-small-text{
+    font-size: 14px;
+margin-top: 20px;
+color:#253858;
+}
+.nineth-box-col-small-signup-text{
+    font-size: 16px;
+margin-top: 22px;
+color:#5a5b5e;
+font-weight: 600;
+}
+.nineth-email-box{
+    margin-top: 20px;
+    
+}
+.nineth-email-box-style{
+    height: 39px;
+    width: 66%;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 8px;
+    border: 1px solid rgb(170, 163, 163);
+}
+.subscribe-btn{
+    height: 40px;
+    width: 115px;
+    border:1px solid #0047B3;
+    background-color: #f3f4f7;
+    color: #3b6eb9;
+    margin-left: 390px;
+    text-align: center;
+    font-size: 15.5px;
+    font-family: arial;
+    font-weight: 600;
+    padding-top: 6px;
+    margin-top: -40px;
+    border-radius: 3px;
+}
+.nineth-box-connect-with-text{
+    font-size: 15px;
+margin-top: 20px;
+color:#737577;
+font-family: arial;
+    font-weight: 600;
+    padding-left: 50px;
+}
+.nineth-box-row-container{
+    margin-left:6%;
+    margin-right:6%;
+   padding-bottom: 43px;
+}
+.fb-logo{
+    margin-top: -40px;
+    float: right;
+    margin-right: 17%;
+}
+.fb-logo-style{
+    height: 37px;
+}
+.twitter-logo-style{
+    height: 40px;
+}
+.twitter-logo{
+    margin-top: -40px;
+    float: right;
+    margin-right: 8%;
+}
+.end-part-text{
+    font-size: 14px;
+    color:#575858;
+    font-weight: 600;
+    /* padding-left: 10px; */
+}
+.end-part-row-container{
+    padding-bottom: 43px;
+    margin-left:6%;
+    margin-right:6%;
+    margin-top: -20px;
+}
+.end-part-text-copy-right{
+    font-size: 16px;
+    color:#535557;
+    font-weight: 600;
+    padding-top: -7px;
+    padding-left: 10px;
+}
+.view-all-text{
+    font-size: 15px;
+    color:#535557;
+    font-weight: 600;
+    margin-left: 100px;
+    margin-top: -25px;
+    padding-bottom: 43px;
+    /* padding-top: -7px; */
+}
+.end-part-pic-style{
+    width: 75%;
+    padding-left: 10px;
+}
+.nineth-big-blue-box{
+    background-color: #F4F5F7;
+}
+.end-part{
+    background-color: #F4F5F7;
+}
